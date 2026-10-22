@@ -1,2 +1,0 @@
-# Martinez_MidtermExam
-hello
